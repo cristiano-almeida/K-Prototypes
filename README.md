@@ -17,7 +17,7 @@ O protótipo permite:
 ├── notebook.py (copiar para arquivo .ipynb no Colab)
 ├── data/
 │   ├── clientes.csv
-│   └── academico.csv
+│   └── academicos.csv
 ├── README.md
 ```
 
